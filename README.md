@@ -13,7 +13,7 @@ In this guide, we will:
 * Retrieve relevant context
 * Build a simple RAG pipeline for Q&A on your data
 
-* ## Related Resources
+## Related Resources
 
 * [LlamaParse (LlamaIndex)](https://docs.llamaindex.ai/en/stable/llama_cloud/llama_parse/)
 * [Cortex Search](https://docs.snowflake.com/en/user-guide/snowflake-cortex/cortex-search/cortex-search-overview)
